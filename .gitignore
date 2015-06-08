@@ -1,1 +1,4 @@
 .DS_Store
+functional programming/*.iml
+functional programming/*.ipr
+functional programming/.idea/**
